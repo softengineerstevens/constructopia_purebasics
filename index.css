@@ -1,0 +1,44 @@
+
+
+.container {
+    background-color: #004040;
+    color: white;
+    word-wrap: break-word;
+    
+
+
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    
+}
+#textheader {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    word-wrap: break-word;
+}
+.btn {
+    border-radius: 40px;
+    background-color: #0CB577;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+ 
+}
+
+.navlinks {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    
+}
+#logoside {
+    display: flex;
+    align-items: right;
+    gap: 30px;
+}
